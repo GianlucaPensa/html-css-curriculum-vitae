@@ -4,6 +4,7 @@ hr {
 
 hr.class{
     border-top: 5px solid orange;
+    margin: 0;
 }
 
 h2{
@@ -12,7 +13,24 @@ h2{
 
 .center{
     display: block;
-    width: 50%;
+    width:25%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.subtitle{
+
+}
+
+header{
+    background-color:lightblue;
+}
+
+h1{
+    margin:0;
+}
+
+html, body{
+    margin:0;
+    padding:0;
 }
