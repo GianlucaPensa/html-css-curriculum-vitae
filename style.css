@@ -1,10 +1,10 @@
-hr {
-    color: orange;
+
+header{
+    border-bottom: 5px solid orange;
 }
 
-hr.class{
-    border-top: 5px solid orange;
-    margin: 0;
+footer{
+    border-top: 1px solid orange;
 }
 
 h2{
@@ -46,8 +46,7 @@ html, body{
     padding:0;
 }
 
-body{
-    min-height: 100vh;
+.container{
     max-width: 720px;
     margin: 0 auto;
 }
