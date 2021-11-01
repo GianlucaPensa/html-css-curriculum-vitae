@@ -1,0 +1,15 @@
+h1{
+    text-align: left;
+    color: orangered;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html{
+    background-image: url(https://img.freepik.com/free-vector/flat-design-halloween-wallpaper-concept_23-2148629920.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    color: orangered;
+}
